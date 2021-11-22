@@ -1,0 +1,7 @@
+dao\DaoImpl2.class
+dao\IDao.class
+presentation\Presentation.class
+Metier\IMetier.class
+dao\DaoImpl1.class
+.netbeans_automatic_build
+Metier\Metier.class
